@@ -2,7 +2,7 @@
 from flask import Flask
 
 PORT = 9090
-MESSAGE = ''' TEST 1<br/>Alhamdulillah.  All Praise is due to Allah <br/>Hello, world, and I call you to Islam!\n'''
+MESSAGE = ''' TEST 2 trying it with the SSH address <br/>Alhamdulillah.  All Praise is due to Allah <br/>Hello, world, and I call you to Islam!\n'''
 
 app = Flask(__name__)
 
