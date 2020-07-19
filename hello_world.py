@@ -1,7 +1,7 @@
 #!/usr/bin/python
 from flask import Flask
 
-PORT = 8080
+PORT = 9090
 MESSAGE = ''' Are you working hard jama? Test1 with Yusuf<br/>Bismilaah.  All Praise is due to Allah <br/>Hello, world, and I call you to Islam!\n'''
 
 app = Flask(__name__)
